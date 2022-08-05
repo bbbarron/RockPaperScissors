@@ -3,7 +3,7 @@
 //  RockPaperScissors
 //
 //  Created by Barry Barron on 8/4/22.
-//  from Hacking With Swift - HWS
+//  from Hacking With SwiftUI - HWS
 //  Project 3 Day 25
 //
 
